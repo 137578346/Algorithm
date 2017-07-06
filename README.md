@@ -1,2 +1,3 @@
 # Algorithm
-- HeapSort:http://www.jianshu.com/p/e2d23c566adc
+- HeapSort:详见简书
+- FilterSensitiveWord：详见简书
