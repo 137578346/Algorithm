@@ -6,4 +6,5 @@
 - 字符串拼接最小字典序:http://www.jianshu.com/p/fbeda8f1ab58
 - 递归和非递归遍历二叉树：http://www.jianshu.com/p/1ceb235db03c
 - 哲学家就餐问题(concurrency/xxxquestion)：http://www.jianshu.com/p/385cebf634d8
+- Top k:http://www.jianshu.com/p/495e5019669c
 - ......
