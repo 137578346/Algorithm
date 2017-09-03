@@ -3,7 +3,7 @@ package interview.algorithm.recursionAlg;
 import java.util.Scanner;
 
 /**
- * 利用快排中parition算法，找到第k大数，平均时间复杂度为O(n)
+ * 利用快排中partition算法，找到第k大数，平均时间复杂度为O(n)
  */
 public class TopK
 {
@@ -24,7 +24,7 @@ public class TopK
 
     private static void findMaxK(int[] a, int low, int high, int k)
     {
-        int p = parition(a, low, high);
+        int p = partition(a, low, high);
         if (p == k)
         {
             return;
@@ -37,7 +37,7 @@ public class TopK
         }
     }
 
-    private static int parition(int[] a, int low, int high)
+    private static int partition(int[] a, int low, int high)
     {
         int position = a[high];
         int i = low - 1;
